@@ -116,6 +116,8 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+    camera.msm8998 \
+    libmm-qcamera \
     Snap
 
 # Connectivity Engine support (CNE)
